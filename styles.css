@@ -1,0 +1,42 @@
+.my-custom-row {
+    background-color: bisque;
+    height: 100px;
+    align-items: center;
+    text-align: center;
+}
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+.regrows {
+    height: 150px;
+    align-items: center;
+    text-align: center;
+}
+.resultArea {
+    align-items: baseline;
+    text-align: center;
+    height: 75px;
+}
+.myButton {
+    background-color: turquoise;
+    
+    
+}
+.btnRow {
+    height: 50px;
+    align-items: center;
+    text-align: center;
+    
+}
+.mycenter {
+    height 50px;
+    align-items: center;
+    text-align: center;
+}
+.checkboxRow {
+    height: fit-content;
+    align-items: center;
+    text-align: center;
+
+}
